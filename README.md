@@ -10,7 +10,7 @@ Interaktiver Rechner, der die tägliche „Sorgen-Zeit" (Grübeln, Ärgern, Geda
 - Perspektiv-Box mit kontextabhängigem Vergleich
 
 
-**Live:** `https://jubuekal-source.github.io/sorgen-rechner/`
+**Live:** https://jubuekal-source.github.io/Sorgen-Rechner/
 
 ## Teil von
 
